@@ -5,7 +5,7 @@ public class prueba {
 		System.out.println("hola mundo");
 		int base;
 		base=10;
-		System.out.println(base);
+		System.out.println(base*2);
 		
 				
 	}
