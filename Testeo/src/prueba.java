@@ -10,6 +10,7 @@ public class prueba {
 		Persona p1= new Persona("Miquel",34,92.6);
 		
 		System.out.println(p1.NomComplet());
+		System.out.println("hola");
 		
 				
 	}
